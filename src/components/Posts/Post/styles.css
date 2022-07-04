@@ -1,0 +1,29 @@
+.id {
+    margin-right: 85%;
+    font-size: 0.5em;
+}
+
+.item {
+    width: 30%;
+    margin: 10px;
+    text-transform: capitalize;
+    list-style: none;
+    background-color: rgb(97 217 251 / 20%);
+    border: 0.1em solid;
+    border-radius: 1em;  
+}
+.title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.body {
+    font-size: 1.5em;
+    font-style: italic;
+    background-color: #282c34;
+    color: #61d9fb;
+
+}
+.website {
+    text-transform: lowercase;
+    text-decoration:midnightblue
+}
