@@ -1,5 +1,5 @@
 .id {
-    margin-right: 85%;
+    margin-right: 95%;
     font-size: 0.5em;
 }
 
@@ -9,8 +9,7 @@
     text-transform: capitalize;
     list-style: none;
     background-color: rgb(97 217 251 / 20%);
-    border: 0.1em solid;
-    border-radius: 1em;  
+    background: linear-gradient(135deg, rgba(97, 218, 251, 0.368),90, 40%, #282c34);
 }
 .title {
     font-weight: bold;
