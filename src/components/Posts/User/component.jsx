@@ -1,6 +1,6 @@
 import './styles.css';
 
-const Post = ({ id, name, username, website }) => (
+const User = ({ id, name, username, website }) => (
     <li className="item">
         <div className="id">{id}</div>
         <div className="title">{name}</div>
@@ -9,4 +9,4 @@ const Post = ({ id, name, username, website }) => (
     </li>
 )
 
-export default Post;
+export default User;

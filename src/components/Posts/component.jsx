@@ -1,13 +1,13 @@
-import Post from './Post';
+import User from './User';
 
 import data from './mockdata';
 
 import './styles.css';
 
-const Posts = () => (
+const Users = () => (
     <ul className="list">
-        {data.map(post => <Post key={post.id} {...post}/>)}
+        {data.map(post => <User key={post.id} {...post}/>)}
     </ul>
 )
 
-export default Posts;
+export default Users;
