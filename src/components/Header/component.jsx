@@ -10,6 +10,7 @@ const Header = () => (
       src={logo}
       alt="logo"
     />
+    <h3 className="App-header-text">our users</h3>
   </header>
 )
 
